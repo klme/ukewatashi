@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "d587bc40a4a75e5d4ae77b2063253da7ef624d0b6946f6e8c2da19257daccb25"
+build_start_time: [1654739763, 492517948]
+build_end_time: [1654739764, 287448883]
+inputs:
+  "/Users/yusei/Documents/Github/quick_blue/quick_blue_example/macos/Flutter/GeneratedPluginRegistrant.swift": [1654739744, 622719764]
+  "/Users/yusei/Documents/Github/quick_blue/quick_blue_example/macos/Runner/AppDelegate.swift": [1651701027, 57909250]
+  "/Users/yusei/Documents/Github/quick_blue/quick_blue_example/macos/Runner/MainFlutterWindow.swift": [1651701027, 61419963]

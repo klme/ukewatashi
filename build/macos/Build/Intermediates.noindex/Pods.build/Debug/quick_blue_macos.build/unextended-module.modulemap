@@ -1,0 +1,10 @@
+framework module quick_blue_macos {
+  umbrella header "quick_blue_macos-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module quick_blue_macos.__Swift {
+    exclude header "quick_blue_macos-Swift.h"
+}
